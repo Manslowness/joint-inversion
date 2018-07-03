@@ -2,7 +2,6 @@ clear
 clc
 close all
 %%目标函数
-
 %%参数设置
 tic
 objectfunnum=2;
